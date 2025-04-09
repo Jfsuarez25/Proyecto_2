@@ -97,3 +97,4 @@ C:\Users\jf25s\source\repos\Trabajo2\WebApplication1\obj\Debug\net9.0\WebApplica
 C:\Users\jf25s\source\repos\Trabajo2\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 C:\Users\jf25s\source\repos\Trabajo2\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
 C:\Users\jf25s\source\repos\Trabajo2\WebApplication1\obj\Debug\net9.0\compressed\a2fsllp4lv-rliypjsdxv.gz
+C:\Users\jf25s\source\repos\Trabajo2\WebApplication1\obj\Debug\net9.0\WebApplication1.sourcelink.json

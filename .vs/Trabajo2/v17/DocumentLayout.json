@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|c:\\users\\jf25s\\source\\repos\\trabajo2\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|c:\\users\\jf25s\\source\\repos\\trabajo2\\webapplication1\\wwwroot\\css\\nacional.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\nacional.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|c:\\users\\jf25s\\source\\repos\\trabajo2\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE9D2665-435F-493D-9D3B-5F140F482C67}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,12 +38,11 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T00:11:46.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T00:11:46.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "nacional.css",
               "DocumentMoniker": "C:\\Users\\jf25s\\source\\repos\\Trabajo2\\WebApplication1\\wwwroot\\css\\nacional.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\nacional.css",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\nacional.css",
               "ViewState": "AgIAACQAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-09T00:00:27.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T00:00:27.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\jf25s\\source\\repos\\Trabajo2\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-08T23:39:29.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T23:39:29.297Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\jf25s\\source\\repos\\Trabajo2\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-08T23:31:58.698Z",
               "EditorCaption": ""
